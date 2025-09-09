@@ -33,4 +33,5 @@
                                 <time>
                                     <xsl:value-of select="pubDate" />
                                 </time>
+
                             </footer>--></article></xsl:for-each></div></main></body></html></xsl:template><xsl:template name="removeZ"><xsl:param name="zAtEnd" /><xsl:value-of select="substring-before($zAtEnd,'Z')" /><!-- <xsl:value-of select="$zAtEnd" /> --></xsl:template></xsl:stylesheet>
