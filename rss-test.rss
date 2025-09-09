@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type='text/xsl' href='stylesheet.xslt'?>
+<?xml-stylesheet type='text/xsl' href='https://raw.githubusercontent.com/LexVanEssen/rssfeed/refs/heads/main/stylesheet.xslt'?>
 <rss version="2.0">
   <channel>
     <title>Daily Newsletter</title>
@@ -985,4 +985,5 @@
       <pubDate>Tue, 02 Sep 2025 12:10:31 Z</pubDate>
     </item>
   </channel>
+
 </rss>
